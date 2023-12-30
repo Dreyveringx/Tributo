@@ -1,5 +1,5 @@
 import React from "react";
-import Desktop3 from "../assets/img/desktop3.svg";
+import Desktop3 from "../assets/img/Desktop3.svg";
 import Video from "../components/Video";
 import Description1 from "../components/Description1";
 import Titulo from "../assets/img/titulo.svg";

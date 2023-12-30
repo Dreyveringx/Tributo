@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Desktop1 from "../assets/img/desktop1.svg";
-import Desktop2 from "../assets/img/desktop2.svg";
+import Desktop1 from "../assets/img/Desktop1.svg";
+import Desktop2 from "../assets/img/Desktop2.svg";
 import "../animations/styles/animations.css";
 
 const Home = () => {
