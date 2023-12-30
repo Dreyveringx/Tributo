@@ -2,7 +2,7 @@ import React from "react";
 import Desktop3 from "../assets/img/Desktop3.svg";
 import Video from "../components/Video";
 import Description1 from "../components/Description1";
-import Titulo from "../assets/img/titulo.svg";
+import Titulo from "../assets/img/Titulo.svg";
 import Navbar1 from "../components/Navbar1";
 
 const Mushishi = () => {
